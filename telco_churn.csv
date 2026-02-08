@@ -1,0 +1,9 @@
+gender,SeniorCitizen,MonthlyCharges,Contract,Churn
+Male,0,70,Month-to-month,Yes
+Female,1,100,Two year,No
+Female,0,30,Month-to-month,No
+Male,0,80,One year,No
+Female,1,90,Month-to-month,Yes
+Male,0,40,Two year,No
+Female,1,110,Month-to-month,Yes
+Male,0,60,One year,No
